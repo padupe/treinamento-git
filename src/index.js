@@ -1,1 +1,3 @@
-console.log('TESTE')
+function a() {
+  console.log('a')
+}
